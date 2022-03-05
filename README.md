@@ -13,3 +13,10 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 ![Mobile   Desktop](https://user-images.githubusercontent.com/64625888/155917729-d28a87ad-8b58-41d9-b9e7-b43b1e5b9995.png)
 ![New Wireframe 1 copy](https://user-images.githubusercontent.com/64625888/155917726-86d5772b-4528-4571-a07f-c37d77c860d1.png)
 ![New Wireframe 1](https://user-images.githubusercontent.com/64625888/155917739-a0888bcf-1baa-44fe-982c-5ae51e500021.png)
+
+# UI Desing
+![abogabot](https://user-images.githubusercontent.com/64625888/156860994-a37321ec-1810-4ec9-9deb-ddccc3423a3d.png)
+
+![Frame 2](https://user-images.githubusercontent.com/64625888/156861003-2a535500-2c0a-497c-8037-85329e68a47e.png)
+
+![iPhone 13 Pro Max - 1](https://user-images.githubusercontent.com/64625888/156861007-5e79c0c8-e527-491a-924c-054d9025cb47.png)
